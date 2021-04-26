@@ -3,4 +3,4 @@
 Creating a simple python calculator :)
 
 ## To run the script:
-<pre>run python3 script.py</pre>
+<pre>python3 script.py</pre>
